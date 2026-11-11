@@ -29,7 +29,7 @@
     }
   ];
 
-  const WORD_MS = 3500;
+  const WORD_MS = 700;
   const DISTRACTOR_MS = 30000;
 
   let state = null;
